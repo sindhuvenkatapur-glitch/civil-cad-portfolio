@@ -7,10 +7,6 @@ It showcases basic floor planning skills, dimensioning, and layout design.
 
 ---
 
-## 🏠 2BHK Floor Plan
-
-![Floor Plan](House-Plan/preview.png)
-
 ### 📋 Details
 
 * Type: 2BHK Residential House
